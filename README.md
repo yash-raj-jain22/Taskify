@@ -41,5 +41,5 @@ This project focuses on learning core React concepts and building a functional U
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/yash-raj-jain22/your-repo-name.git
+git clone https://github.com/yash-raj-jain22/Taskify.git
 ```
