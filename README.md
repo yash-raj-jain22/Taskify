@@ -1,16 +1,45 @@
-# React + Vite
+# 🚀 React Task Manager App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and responsive **Task Manager (Todo App)** built using **React, Vite, and Tailwind CSS**.  
+This project focuses on learning core React concepts and building a functional UI with real-world features.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## ✨ Features
 
-## React Compiler
+- ➕ Add new tasks
+- ✏️ Edit existing tasks
+- ❌ Delete tasks
+- ✅ Mark tasks as completed
+- 💾 Data persistence using **Local Storage**
+- 📱 Fully responsive design
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- ⚛️ React (Functional Components + Hooks)
+- ⚡ Vite (Fast development & build tool)
+- 🎨 Tailwind CSS (Utility-first styling)
+- 💾 Local Storage (Data persistence)
+
+---
+
+## 📚 What I Learned
+
+- Component-based architecture in React
+- Managing state using `useState`
+- Handling user inputs and events
+- Persisting data using Local Storage
+- Building responsive UI using Tailwind CSS
+- Using Vite for faster development
+
+---
+
+## 🚀 Getting Started
+
+### 1️⃣ Clone the repository
+
+```bash
+git clone https://github.com/yash-raj-jain22/your-repo-name.git
+```
