@@ -43,3 +43,10 @@ This project focuses on learning core React concepts and building a functional U
 ```bash
 git clone https://github.com/yash-raj-jain22/Taskify.git
 ```
+
+
+### Live Link
+
+```bash 
+https://taskify-by-yash.vercel.app
+```
